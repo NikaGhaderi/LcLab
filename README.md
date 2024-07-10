@@ -1,16 +1,9 @@
-# LcLab
- Lab - Fall 2023
 # Logical Circuit Laboratory
 
 
-This repository contains **6 Proteus and Fritzing projects** that I completed during my Computer Architecture lab course.
+This repository contains **6 Proteus and Fritzing projects** that I completed during my Logical Circuit lab course.
 Each project has a corresponding report that describes its implementation. The project descriptions are available in the `report.pdf` file.
 
-## Project Descriptions
-
-1. **Project E1**: BCD adder
-2. **Project E2**: Carry select adder
- 
 ## Getting Started
 
 1. Clone this repository to your local machine.
